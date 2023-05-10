@@ -1,6 +1,6 @@
 # COSI-137b-Temporal-Relation-Extraction
 
-Preprocess pipeline is adopted from https://github.com/PlusLabNLP/JointEventTempRel
+Preprocess pipeline is adopted and modified from https://github.com/PlusLabNLP/JointEventTempRel
 
 To run the codes:
 1. Add glove.6B.50d.txt to the folder _other_
